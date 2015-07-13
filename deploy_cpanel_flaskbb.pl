@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 
+use 5.010001; # for regexp support
 use strict;
 use warnings;
 
